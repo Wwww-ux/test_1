@@ -1,0 +1,7 @@
+setup.py
+datatools/__init__.py
+datatools.egg-info/PKG-INFO
+datatools.egg-info/SOURCES.txt
+datatools.egg-info/dependency_links.txt
+datatools.egg-info/requires.txt
+datatools.egg-info/top_level.txt
