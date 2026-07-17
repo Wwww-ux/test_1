@@ -6,7 +6,7 @@ setup(
     description='数据处理工具包',    #描述
     author='Wzb',           #作者名字
     author_email='204479991@qq.com',     #邮箱
-    url='',                    #包的链接
+    url='https://github.com/Wwww-ux/test_1/tree/main/%E5%8C%85%E5%92%8C%E6%A8%A1%E5%9D%97/%E5%8C%85%E7%9A%84%E7%94%A8%E6%B3%95/datatools',                    #包的链接
     license='MIT',          #权限采用MIT协议
     packages=find_packages(),     #导入所有子包
     python_requires ='>=3.7',     #python版本>=3.7
