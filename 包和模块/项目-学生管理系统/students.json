@@ -1,0 +1,26 @@
+{
+    "total_students": 3,
+    "average_student": 95.66666666666667,
+    "top_student": {
+        "name": "aaa",
+        "age": 18,
+        "score": 100.0
+    },
+    "students": [
+        {
+            "name": "aaa",
+            "age": 18,
+            "score": 100.0
+        },
+        {
+            "name": "bbb",
+            "age": 20,
+            "score": 99.0
+        },
+        {
+            "name": "ccc",
+            "age": 22,
+            "score": 88.0
+        }
+    ]
+}
